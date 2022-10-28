@@ -1,0 +1,11 @@
+.izquierda{
+    float:left;
+}
+.derecha{
+    float:right;
+}
+.duo {
+    width:50%;
+    height:200px;
+    background-color:red;
+}
